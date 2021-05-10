@@ -1,0 +1,3 @@
+typ: gra strategiczna z elementami rpg i minimalna ekonomia
+w wielkim skrócie - gra w mechanice jak heroes - zamek, sterowanie bohaterem, wojsko i walki na szachownicy.
+z zastrzezeniem - nie musi to byc klimat fantasy, to moze byc sredniowiecze, wojna druga swiatowa, lub jakas nieokreslona przyszlosc z kosmitami planetami etc etc.
