@@ -1,0 +1,8 @@
+<script>
+    var synt = window.speechSynthesis;
+    var utter = new SpeechSynthesisUtterance();
+    window.addEventListener('keydown', (e) => {
+utter.text = e.key;
+synt.speak(utter);
+    });
+</script>
